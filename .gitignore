@@ -1,8 +1,11 @@
-backend/config.py
+.venv/
+venv/
 .env
 __pycache__/
 *.pyc
 .qodo/
 .vscode/
 .ipynb_checkpoints/
+backend/config.py
 ml_model/data/*.csv
+.vercel/
